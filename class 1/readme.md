@@ -128,3 +128,40 @@ __ __
             printf ("swapped numbers are: \n num1 = %d \n num 2 =%d", num1, num2);
         return 0;
         }
+
+
+# Class Notes: 
+> ##  DECISION MAKING STATEMENT
+
+### Simple if
+
+	if (condition)
+	{ 
+	    =
+	}
+
+### if else
+
+	if (condition)
+	{ 
+	    =
+	} 
+	else 
+	{ 
+	    = 
+	}
+
+### Nested if else 
+
+	if (condition) 
+	{ 
+	    = 
+	} 
+	else if (condition)
+	{ 
+	    = 
+	} 
+	else 
+	{ 
+	    = 
+	}
